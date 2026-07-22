@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/joyson-david7/leetcodeproblems/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 ## Two Pointers
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/joyson-david7/leetcodeproblems/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/joyson-david7/leetcodeproblems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/joyson-david7/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/joyson-david7/leetcodeproblems/tree/master/2351-first-letter-to-appear-twice) |
