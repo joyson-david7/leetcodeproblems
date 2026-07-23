@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/joyson-david7/leetcodeproblems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/joyson-david7/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/joyson-david7/leetcodeproblems/tree/master/0443-string-compression) |
+| [0890-find-and-replace-pattern](https://github.com/joyson-david7/leetcodeproblems/tree/master/0890-find-and-replace-pattern) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/joyson-david7/leetcodeproblems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/joyson-david7/leetcodeproblems/tree/master/2351-first-letter-to-appear-twice) |
 ## Array
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/joyson-david7/leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0890-find-and-replace-pattern](https://github.com/joyson-david7/leetcodeproblems/tree/master/0890-find-and-replace-pattern) |
 | [1089-duplicate-zeros](https://github.com/joyson-david7/leetcodeproblems/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/joyson-david7/leetcodeproblems/tree/master/0001-two-sum) |
 | [0383-ransom-note](https://github.com/joyson-david7/leetcodeproblems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/joyson-david7/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
+| [0890-find-and-replace-pattern](https://github.com/joyson-david7/leetcodeproblems/tree/master/0890-find-and-replace-pattern) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/joyson-david7/leetcodeproblems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/joyson-david7/leetcodeproblems/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
