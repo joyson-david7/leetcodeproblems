@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/joyson-david7/leetcodeproblems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/joyson-david7/leetcodeproblems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/joyson-david7/leetcodeproblems/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/joyson-david7/leetcodeproblems/tree/master/0344-reverse-string) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/joyson-david7/leetcodeproblems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/joyson-david7/leetcodeproblems/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/joyson-david7/leetcodeproblems/tree/master/0443-string-compression) |
 | [1089-duplicate-zeros](https://github.com/joyson-david7/leetcodeproblems/tree/master/1089-duplicate-zeros) |
