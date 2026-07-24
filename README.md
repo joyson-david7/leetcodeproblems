@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/joyson-david7/leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/joyson-david7/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/joyson-david7/leetcodeproblems/tree/master/0890-find-and-replace-pattern) |
 | [1089-duplicate-zeros](https://github.com/joyson-david7/leetcodeproblems/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
@@ -37,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/joyson-david7/leetcodeproblems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/joyson-david7/leetcodeproblems/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/joyson-david7/leetcodeproblems/tree/master/0443-string-compression) |
+| [0881-boats-to-save-people](https://github.com/joyson-david7/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 | [1089-duplicate-zeros](https://github.com/joyson-david7/leetcodeproblems/tree/master/1089-duplicate-zeros) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/joyson-david7/leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0881-boats-to-save-people](https://github.com/joyson-david7/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/joyson-david7/leetcodeproblems/tree/master/2351-first-letter-to-appear-twice) |
+## Greedy
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/joyson-david7/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
