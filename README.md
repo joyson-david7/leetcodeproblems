@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/joyson-david7/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/joyson-david7/leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/joyson-david7/leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/joyson-david7/leetcodeproblems/tree/master/0704-binary-search) |
 | [0881-boats-to-save-people](https://github.com/joyson-david7/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/joyson-david7/leetcodeproblems/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/joyson-david7/leetcodeproblems/tree/master/0904-fruit-into-baskets) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/joyson-david7/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
+| [0704-binary-search](https://github.com/joyson-david7/leetcodeproblems/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
 | ------- |
