@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/joyson-david7/leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
 | [0881-boats-to-save-people](https://github.com/joyson-david7/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/joyson-david7/leetcodeproblems/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/joyson-david7/leetcodeproblems/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/joyson-david7/leetcodeproblems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/joyson-david7/leetcodeproblems/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/joyson-david7/leetcodeproblems/tree/master/1089-duplicate-zeros) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/joyson-david7/leetcodeproblems/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/joyson-david7/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/joyson-david7/leetcodeproblems/tree/master/0890-find-and-replace-pattern) |
+| [0904-fruit-into-baskets](https://github.com/joyson-david7/leetcodeproblems/tree/master/0904-fruit-into-baskets) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/joyson-david7/leetcodeproblems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/joyson-david7/leetcodeproblems/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/joyson-david7/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/joyson-david7/leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/joyson-david7/leetcodeproblems/tree/master/0904-fruit-into-baskets) |
 ## Binary Search
 |  |
 | ------- |
