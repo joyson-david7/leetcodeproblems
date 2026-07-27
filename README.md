@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/joyson-david7/leetcodeproblems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/joyson-david7/leetcodeproblems/tree/master/0922-sort-array-by-parity-ii) |
 | [1089-duplicate-zeros](https://github.com/joyson-david7/leetcodeproblems/tree/master/1089-duplicate-zeros) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/joyson-david7/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/joyson-david7/leetcodeproblems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/joyson-david7/leetcodeproblems/tree/master/0922-sort-array-by-parity-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/joyson-david7/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
