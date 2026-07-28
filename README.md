@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/joyson-david7/leetcodeproblems/tree/master/0152-maximum-product-subarray) |
 | [0209-minimum-size-subarray-sum](https://github.com/joyson-david7/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/joyson-david7/leetcodeproblems/tree/master/0303-range-sum-query-immutable) |
 | [0628-maximum-product-of-three-numbers](https://github.com/joyson-david7/leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/joyson-david7/leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/joyson-david7/leetcodeproblems/tree/master/0704-binary-search) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/joyson-david7/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/joyson-david7/leetcodeproblems/tree/master/0303-range-sum-query-immutable) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -139,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/joyson-david7/leetcodeproblems/tree/master/0509-fibonacci-number) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/joyson-david7/leetcodeproblems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
