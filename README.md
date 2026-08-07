@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/joyson-david7/leetcodeproblems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/joyson-david7/leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/joyson-david7/leetcodeproblems/tree/master/0633-sum-of-square-numbers) |
+| [0989-add-to-array-form-of-integer](https://github.com/joyson-david7/leetcodeproblems/tree/master/0989-add-to-array-form-of-integer) |
 ## String
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/joyson-david7/leetcodeproblems/tree/master/0905-sort-array-by-parity) |
 | [0918-maximum-sum-circular-subarray](https://github.com/joyson-david7/leetcodeproblems/tree/master/0918-maximum-sum-circular-subarray) |
 | [0922-sort-array-by-parity-ii](https://github.com/joyson-david7/leetcodeproblems/tree/master/0922-sort-array-by-parity-ii) |
+| [0989-add-to-array-form-of-integer](https://github.com/joyson-david7/leetcodeproblems/tree/master/0989-add-to-array-form-of-integer) |
 | [1089-duplicate-zeros](https://github.com/joyson-david7/leetcodeproblems/tree/master/1089-duplicate-zeros) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/joyson-david7/leetcodeproblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
