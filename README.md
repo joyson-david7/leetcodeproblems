@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/joyson-david7/leetcodeproblems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/joyson-david7/leetcodeproblems/tree/master/0171-excel-sheet-column-number) |
+| [0367-valid-perfect-square](https://github.com/joyson-david7/leetcodeproblems/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/joyson-david7/leetcodeproblems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/joyson-david7/leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
 ## String
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/joyson-david7/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/joyson-david7/leetcodeproblems/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/joyson-david7/leetcodeproblems/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
