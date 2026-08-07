@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/joyson-david7/leetcodeproblems/tree/master/1089-duplicate-zeros) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/joyson-david7/leetcodeproblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1929-concatenation-of-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1929-concatenation-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/joyson-david7/leetcodeproblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3731-find-missing-elements](https://github.com/joyson-david7/leetcodeproblems/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/joyson-david7/leetcodeproblems/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1929-concatenation-of-array) |
 ## Monotonic Stack
 |  |
 | ------- |
