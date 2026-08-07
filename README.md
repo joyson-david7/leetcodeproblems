@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-find-and-replace-pattern](https://github.com/joyson-david7/leetcodeproblems/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/joyson-david7/leetcodeproblems/tree/master/0917-reverse-only-letters) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/joyson-david7/leetcodeproblems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/joyson-david7/leetcodeproblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/joyson-david7/leetcodeproblems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/joyson-david7/leetcodeproblems/tree/master/2351-first-letter-to-appear-twice) |
 ## Array
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/joyson-david7/leetcodeproblems/tree/master/0387-first-unique-character-in-a-string) |
 | [0890-find-and-replace-pattern](https://github.com/joyson-david7/leetcodeproblems/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/joyson-david7/leetcodeproblems/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/joyson-david7/leetcodeproblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/joyson-david7/leetcodeproblems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/joyson-david7/leetcodeproblems/tree/master/2351-first-letter-to-appear-twice) |
 ## Queue
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/joyson-david7/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/joyson-david7/leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/joyson-david7/leetcodeproblems/tree/master/0904-fruit-into-baskets) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/joyson-david7/leetcodeproblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/joyson-david7/leetcodeproblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
