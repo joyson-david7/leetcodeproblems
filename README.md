@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/joyson-david7/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/joyson-david7/leetcodeproblems/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/joyson-david7/leetcodeproblems/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/joyson-david7/leetcodeproblems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/joyson-david7/leetcodeproblems/tree/master/0704-binary-search) |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/joyson-david7/leetcodeproblems/tree/master/1572-matrix-diagonal-sum) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/joyson-david7/leetcodeproblems/tree/master/2319-check-if-matrix-is-x-matrix) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/joyson-david7/leetcodeproblems/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
