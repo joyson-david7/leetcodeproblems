@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/joyson-david7/leetcodeproblems/tree/master/0922-sort-array-by-parity-ii) |
 | [0989-add-to-array-form-of-integer](https://github.com/joyson-david7/leetcodeproblems/tree/master/0989-add-to-array-form-of-integer) |
 | [1089-duplicate-zeros](https://github.com/joyson-david7/leetcodeproblems/tree/master/1089-duplicate-zeros) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/joyson-david7/leetcodeproblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/joyson-david7/leetcodeproblems/tree/master/1512-number-of-good-pairs) |
