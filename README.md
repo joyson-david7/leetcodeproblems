@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/joyson-david7/leetcodeproblems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/joyson-david7/leetcodeproblems/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/joyson-david7/leetcodeproblems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/joyson-david7/leetcodeproblems/tree/master/0143-reorder-list) |
 | [0682-baseball-game](https://github.com/joyson-david7/leetcodeproblems/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/joyson-david7/leetcodeproblems/tree/master/0739-daily-temperatures) |
@@ -274,4 +275,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/joyson-david7/leetcodeproblems/tree/master/0933-number-of-recent-calls) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/joyson-david7/leetcodeproblems/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/joyson-david7/leetcodeproblems/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/joyson-david7/leetcodeproblems/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
