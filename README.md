@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/joyson-david7/leetcodeproblems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/joyson-david7/leetcodeproblems/tree/master/0633-sum-of-square-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/joyson-david7/leetcodeproblems/tree/master/0989-add-to-array-form-of-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/joyson-david7/leetcodeproblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/joyson-david7/leetcodeproblems/tree/master/1512-number-of-good-pairs) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/joyson-david7/leetcodeproblems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/joyson-david7/leetcodeproblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/joyson-david7/leetcodeproblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2351-first-letter-to-appear-twice](https://github.com/joyson-david7/leetcodeproblems/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
