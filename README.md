@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/joyson-david7/leetcodeproblems/tree/master/0989-add-to-array-form-of-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/joyson-david7/leetcodeproblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/joyson-david7/leetcodeproblems/tree/master/1512-number-of-good-pairs) |
+| [2169-count-operations-to-obtain-zero](https://github.com/joyson-david7/leetcodeproblems/tree/master/2169-count-operations-to-obtain-zero) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/joyson-david7/leetcodeproblems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/joyson-david7/leetcodeproblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## String
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0682-baseball-game](https://github.com/joyson-david7/leetcodeproblems/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1929-concatenation-of-array) |
+| [2169-count-operations-to-obtain-zero](https://github.com/joyson-david7/leetcodeproblems/tree/master/2169-count-operations-to-obtain-zero) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/joyson-david7/leetcodeproblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Monotonic Stack
 |  |
