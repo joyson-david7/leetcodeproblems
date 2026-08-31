@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/joyson-david7/leetcodeproblems/tree/master/0989-add-to-array-form-of-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/joyson-david7/leetcodeproblems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/joyson-david7/leetcodeproblems/tree/master/1512-number-of-good-pairs) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/joyson-david7/leetcodeproblems/tree/master/2169-count-operations-to-obtain-zero) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/joyson-david7/leetcodeproblems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/joyson-david7/leetcodeproblems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/joyson-david7/leetcodeproblems/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/joyson-david7/leetcodeproblems/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1929-concatenation-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/joyson-david7/leetcodeproblems/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/joyson-david7/leetcodeproblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/joyson-david7/leetcodeproblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -308,4 +310,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0627-swap-sex-of-employees](https://github.com/joyson-david7/leetcodeproblems/tree/master/0627-swap-sex-of-employees) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
