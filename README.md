@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1991-find-the-middle-index-in-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/joyson-david7/leetcodeproblems/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2574-left-and-right-sum-differences](https://github.com/joyson-david7/leetcodeproblems/tree/master/2574-left-and-right-sum-differences) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/joyson-david7/leetcodeproblems/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/joyson-david7/leetcodeproblems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/joyson-david7/leetcodeproblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/joyson-david7/leetcodeproblems/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/joyson-david7/leetcodeproblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1991-find-the-middle-index-in-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1991-find-the-middle-index-in-array) |
+| [2574-left-and-right-sum-differences](https://github.com/joyson-david7/leetcodeproblems/tree/master/2574-left-and-right-sum-differences) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
