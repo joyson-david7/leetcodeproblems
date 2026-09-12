@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/joyson-david7/leetcodeproblems/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/joyson-david7/leetcodeproblems/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/joyson-david7/leetcodeproblems/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/joyson-david7/leetcodeproblems/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/joyson-david7/leetcodeproblems/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/joyson-david7/leetcodeproblems/tree/master/0881-boats-to-save-people) |
 | [0890-find-and-replace-pattern](https://github.com/joyson-david7/leetcodeproblems/tree/master/0890-find-and-replace-pattern) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/joyson-david7/leetcodeproblems/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/joyson-david7/leetcodeproblems/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/joyson-david7/leetcodeproblems/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/joyson-david7/leetcodeproblems/tree/master/0724-find-pivot-index) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/joyson-david7/leetcodeproblems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Heap (Priority Queue)
 |  |
