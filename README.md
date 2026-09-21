@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/joyson-david7/leetcodeproblems/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/joyson-david7/leetcodeproblems/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2351-first-letter-to-appear-twice](https://github.com/joyson-david7/leetcodeproblems/tree/master/2351-first-letter-to-appear-twice) |
+| [3498-reverse-degree-of-a-string](https://github.com/joyson-david7/leetcodeproblems/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/joyson-david7/leetcodeproblems/tree/master/1929-concatenation-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/joyson-david7/leetcodeproblems/tree/master/2169-count-operations-to-obtain-zero) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/joyson-david7/leetcodeproblems/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/joyson-david7/leetcodeproblems/tree/master/3498-reverse-degree-of-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
